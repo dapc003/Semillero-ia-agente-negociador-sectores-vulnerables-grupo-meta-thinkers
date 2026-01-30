@@ -44,7 +44,7 @@ class Herramientas:
     def leer_precios_del_txt():
         # Lee los planes de internet desde un archivo externo
         try:
-            with open("conocimiento.txt", "r", encoding="utf-8") as f:
+            with open("src/config/conocimiento.txt", "r", encoding="utf-8") as f:
                 return f.read()
         except FileNotFoundError:
             return "Archivo conocimiento.txt no encontrado."
