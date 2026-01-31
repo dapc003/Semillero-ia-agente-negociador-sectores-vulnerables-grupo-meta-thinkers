@@ -1,15 +1,27 @@
 # **Agente Negociador para Sectores Vulnerables**
 
 ## **Integrantes**
--
--
--
--
--
+1. Bermúdez Medina Krystel Raquel
 
-**Link del vídeo**
+2. Cabezas Cevallos Luis Antonio
 
-https
+3. Chalen Jiménez María de Jesús
+
+4. Huilca Lucio Allisson Dayana
+
+5. Morales Calderón Jonathan José
+
+6. Pinto Velez Bruno Angel
+
+7. Ponce Cueva Diego Alberto
+
+8. Reyes De la Cruz Diego Roberto
+
+9. Rodríguez Chipre María Belen
+
+## **Link del vídeo**
+
+[Link](https://drive.google.com/file/d/1UwNQNyAfBy6vFTr4p5X-CCtpxu472RFZ/view?usp=sharing)
 
 ## **Descripción del proyecto**
 
@@ -48,8 +60,7 @@ El agente puede:
 1. Clona el repositorio:
 
 ```
-git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_PROYECTO>
+git clone <https://github.com/dapc003/Semillero-ia-agente-negociador-sectores-vulnerables-grupo-meta-thinkers.git>
 ```
 
 2. Instala las dependencias:
@@ -69,7 +80,7 @@ TOKEN=tu_token_de_huggingface
 4. Ejecuta la aplicación:
 
 ```
-python app.py
+python src/main.py
 ```
 
 5. Accede a la interfaz de Gradio desde tu navegador, interactúa con el agente y consulta planes y convenios de forma segura y sencilla.
